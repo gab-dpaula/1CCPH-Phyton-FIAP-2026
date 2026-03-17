@@ -1,9 +1,9 @@
-dia de nascimento = "6"
-mes de nascimento = "8"
-ano de nascimento = "2007"
+dia_nascimento = "6"
+mes_nascimento = "8"
+ano_nascimento = "2007"
 
-dia de nascimento = input("Dia em que nasceu: ")
-mes de nascimento = int(input("Mes em que nasceu: "))
-ano de nascimento = int(input("Ano em que nasceu: "))
+dia_nascimento = input("Dia em que nasceu: ")
+mes_nascimento = input("Mes em que nasceu: ")
+ano_nascimento = input("Ano em que nasceu: ")
 
-print(f"Sua data de nascimento é: {dia de nascimento/mes de nascimento/ano de nascimento})
+print(f"Sua data de nascimento é: {dia_nascimento}/{mes_nascimento}/{ano_nascimento}")
