@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Golas",
+    "company": "nike",
+    "email": "golas@.com",
+    "stage": "Novo",
+    "created": "8/9"
+  },
+  {
+    "name": "gabriel",
+    "company": "bk",
+    "email": "g@golas",
+    "stage": "new",
+    "created": "2026-09-08"
+  },
+  {
+    "name": "everton",
+    "company": "curitiba",
+    "email": "evertcuritiba@gmail",
+    "stage": "player",
+    "created": "2026-09-08"
+  },
+  {
+    "name": "k",
+    "company": "l",
+    "email": "d@s",
+    "stage": "u",
+    "created": "2026-09-08"
+  }
+]
